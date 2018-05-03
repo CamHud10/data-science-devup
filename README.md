@@ -1,4 +1,3 @@
 # data-science-devup
-For the CBDS DevUp Program
 
-Just trying to keep my job
+print "Hey look Mom I'm coding"
